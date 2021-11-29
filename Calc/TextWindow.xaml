@@ -8,7 +8,7 @@
         Title="TextWindow"
         Height="100" Width="400"
 >
-    <TextBlock x:Name="TextBox" HorizontalAlignment="Left" Margin="5,10,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="185"/>
+    <TextBlock x:Name="TextBox" HorizontalAlignment="Left" Margin="5,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Height="38" Text="Введите пример" FontSize="20"/>
 
 
 </Window>
